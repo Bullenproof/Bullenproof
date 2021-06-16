@@ -1,16 +1,15 @@
-### Hi there 👋
+# Technik gegen polizeiliche Übergriffe
 
-<!--
-**Bullenproof/Bullenproof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bullenproof ist natürlich an Bulletproof, kugelsicher angelehnt. Während es kugelsichere Westen, Fahrzeuge, Fenster usw. gibt, gibt es leider keine Sicherheit vor Übergriffen durch die Polizei. Übergriff meint hier jegliche Belästigung durch die Polizei. Mit der richtigen Technik können wir jedoch dafür sorgen, dass die Polizei uns möglichst wenig kann.
 
-Here are some ideas to get you started:
+## Warum / Motivation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beim Staat handelt es sich eigentlich um eine Schutzgemeinschaft und die Polizei soll uns schützen. Wenn der Staat allerdings selbst zur Bedrohung wird, PCs und Smartphones selbst bei Ordnungswidrigkeiten beschlagnahmt werden, dann verbreitet der Staat selbst Angst und Schrecken. Dagegen müssen wir uns wehren. Wer wie bei einer Drogenrazzia Smartphones und PCs raubt, weil bei einer Protestaktion gelbe Farbe verteilt wurde, muss mit Gegenwehr rechnen. Die Einschüchterungsaktion fand ganze 5 Monate nach der "Tat" statt. Kein Mensch rechnet nach so langer Zeit noch deswegen von der Polizei belästigt zu werden. Es ist absolut unverhältnismäßig 5 Monate nachdem Greenpeace gelbe Farbe verteilt hat, die Greenpeacezentrale und vor allem Privatwohnungen zu durchsuchen. Die Menschen haben Kinder. Wenn da schwerbewaffnete potentielle Gewalttäter früh am Morgen aufmarschieren, dann hinterlässt das Spuren. Wie es in den Wald schallt, so hallt es zurück. Wenn gegen solche taktlosen "Menschen" Steine fliegen, brauchen die sich wirklich nicht zu wundern. Quelle [Bundesweit Razzien bei Greenpeace](https://taz.de/Nach-Farbaktion-in-Berlin/!5546512/)
+
+## Maßnahmen gegen Polizei
+
+In diesem Projekt geht es um hauptsächlich um das Thema IT-Sicherheit. Wie richtet man seine Geräte ein, dass die Polizei und andere staatliche Stellen nichts damit anfangen können. Verschlüsselung ist ein wichtiges Thema, aber auch das LIMS (=Leben mit mehr Sicherheit) System ist eines der Hauptprojekte. LIMS sorgt dafür, dass die persönlichen IT-Geräte à la Smartphone, PC, Laptop, Tablet usw. bei unbefugtem Eindringen durch die Polizei in die Wohnung in gesperrtem Zustand versetzt werden. Damit kann die Polizei nicht mehr in eurer IT-Privatsphäre schnüffeln und auch eure Freundys können sich sicherfühlen, dass die Polizei die Nachrichten mit euch nicht lesen kann. 
+
+## Allgemeine Verhaltenstipps bei Hausdurchsuchungen und Polizei
+
+Ihr müsst keine Angaben außer zu eurer Person machen. Redet nicht mehr. Die sind geschult, machen auf bedrohlich oder freundlich um euch Informationen zu entlocken. Beispiel gefällig? Euer Handy war in der Nähe eines Tatorts eingeloggt. Sie plaudern freundlichen mit euch und sagen "beiläufig": "So ein Smartphone wird ja immer wichtiger, verständlich wenn man das nicht aus der Hand geben möchte und immer mit sich führt. Ich nehme an, Sie würden Ihr Smartphone nichtmal an den besten Freund verleihen, oder?" Stimmt ihr jetzt zu, wird euch die Polizei später damit konfrontieren, dass ihr am Tatort gewesen sein müsst, weil euer Handy dort war. Dies war nur ein Beispiel von vielen. Schweigen bewahrt euch vor solchen Anfängerfehlern. Holt euch einen Anwalty, immer! Die Polizei wird euch sagen, dass, wenn ihr unschuldig seid ihr doch keinen Anwalty bräuchtet. Denen könnt ihr selbstbewusst entgegnen: "Das habt ihr Ulvi Kulac bestimmt auch gesagt, trotzdem habt ihr in unschuldig 14 Jahre lang wegen angeblichen Mordes an Peggy Knobloch weggesperrt. Ich kenne meine Rechte." Lasst euch nicht provozieren. Das tun die gerne. 
